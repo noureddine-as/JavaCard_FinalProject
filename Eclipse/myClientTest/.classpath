@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/JCK222/java_card_kit-2_2_2/lib/apduio.jar"/>
+	<classpathentry kind="lib" path="C:/JCK222/java_card_kit-2_2_2/lib/apdutool.jar"/>
+	<classpathentry kind="lib" path="C:/JCK222/java_card_kit-2_2_2/lib/api.jar"/>
+	<classpathentry kind="lib" path="C:/JCK222/java_card_kit-2_2_2/lib/api_16.jar"/>
+	<classpathentry kind="lib" path="C:/JCK222/java_card_kit-2_2_2/lib/capdump.jar"/>
+	<classpathentry kind="lib" path="C:/JCK222/java_card_kit-2_2_2/lib/converter.jar"/>
+	<classpathentry kind="lib" path="C:/JCK222/java_card_kit-2_2_2/lib/installer.jar"/>
+	<classpathentry kind="lib" path="C:/JCK222/java_card_kit-2_2_2/lib/javacardframework.jar"/>
+	<classpathentry kind="lib" path="C:/JCK222/java_card_kit-2_2_2/lib/jcclientsamples.jar"/>
+	<classpathentry kind="lib" path="C:/JCK222/java_card_kit-2_2_2/lib/jcrmiclientframework.jar"/>
+	<classpathentry kind="lib" path="C:/JCK222/java_card_kit-2_2_2/lib/jcwde.jar"/>
+	<classpathentry kind="lib" path="C:/JCK222/java_card_kit-2_2_2/lib/jcwde_16.jar"/>
+	<classpathentry kind="lib" path="C:/JCK222/java_card_kit-2_2_2/lib/offcardverifier.jar"/>
+	<classpathentry kind="lib" path="C:/JCK222/java_card_kit-2_2_2/lib/scriptgen.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
